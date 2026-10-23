@@ -1,0 +1,5 @@
+# Raspberry Pi inference only
+tflite-runtime
+numpy
+Pillow
+# opencv-python-headless   # only needed for --camera
